@@ -1,0 +1,10 @@
+G:\Csharpdocument\snake games\bin\Debug\snake games.exe.config
+G:\Csharpdocument\snake games\bin\Debug\snake games.exe
+G:\Csharpdocument\snake games\bin\Debug\snake games.pdb
+G:\Csharpdocument\snake games\obj\Debug\snake games.csproj.AssemblyReference.cache
+G:\Csharpdocument\snake games\obj\Debug\snake_games.Form1.resources
+G:\Csharpdocument\snake games\obj\Debug\snake_games.Properties.Resources.resources
+G:\Csharpdocument\snake games\obj\Debug\snake games.csproj.GenerateResource.cache
+G:\Csharpdocument\snake games\obj\Debug\snake games.csproj.CoreCompileInputs.cache
+G:\Csharpdocument\snake games\obj\Debug\snake games.exe
+G:\Csharpdocument\snake games\obj\Debug\snake games.pdb
